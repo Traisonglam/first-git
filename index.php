@@ -12,6 +12,7 @@
 <body>
 <?php
 echo "Đây là bài học dầu tiên về Git";
+echo " Test push";
 ?>
 </body>
 </html>
